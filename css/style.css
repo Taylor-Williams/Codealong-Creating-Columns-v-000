@@ -129,5 +129,6 @@ section {
   position: fixed;
   top: 200px;
   right: 20px;
-  width: 40;
+  width: 40px;
+  z-index: 1;
 }
